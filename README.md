@@ -11,5 +11,3 @@ Once connected to the victim device, I attempted to place the second Bash script
 The second program on the victim device retrieves various information, such as system information, memory information, and CPU model, at specified intervals and sends it to the server.
 # displaying information
 On the server, I also wrote a program to display the received information in a web-based application. For this task, I created a simple backend and frontend.
-# website link
-https://securityfirstproject.pythonanywhere.com/get-info/
